@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Gender,Education,Income,Loan_Amount,Loan_Status,Region,Credit_Score,Employment_Type
+1,Mrs. Molly Jones MD,Male,High School,88372,330961,Approved,South,744,Salaried
+2,Dr. Luis Adams,Female,Post Graduate,119257,262727,Approved,North,642,Salaried
+3,Patricia Nielsen,Female,Graduate,81217,472394,Rejected,East,482,Business
+4,Audrey Russell,Male,High School,117486,264501,Approved,West,306,Salaried
+5,Dr. Eric Berry,Male,High School,97590,70297,Rejected,South,515,Salaried
+6,Lindsey Day,Male,Post Graduate,61361,445854,Rejected,North,602,Salaried
+7,Anne Meadows,Male,Post Graduate,96742,468230,Rejected,West,458,Salaried
+8,Bailey Brown,Female,Graduate,63391,178896,Approved,North,444,Salaried
+9,Laura Tucker,Female,High School,47429,86835,Approved,East,859,Self-Employed
+10,Nancy Dillon,Male,Graduate,44420,167749,Rejected,East,450,Self-Employed
+11,Monique Wyatt,Male,Post Graduate,66843,204617,Approved,South,552,Business
+12,Margaret Carter,Male,Post Graduate,93528,317139,Approved,West,818,Self-Employed
+13,Laura Parker,Female,Post Graduate,42867,197688,Rejected,South,768,Salaried
+14,Lisa Bates,Male,High School,49709,198807,Rejected,South,651,Salaried
+15,Jordan Velasquez,Male,High School,106712,43457,Rejected,North,640,Business
+16,Joshua Thomas,Female,High School,76673,303281,Approved,South,473,Business
+17,Alicia Smith,Male,High School,110192,471520,Rejected,East,709,Self-Employed
+18,Nathan Brooks,Male,Graduate,45357,274600,Rejected,West,740,Business
+19,Richard Young,Female,Post Graduate,47249,439148,Approved,West,463,Business
+20,Dustin Gallegos,Female,Post Graduate,21385,131933,Rejected,North,438,Business
+21,Cassie Stewart,Female,High School,101753,239191,Rejected,West,802,Salaried
+22,Daniel Cain,Male,Graduate,105371,162207,Approved,West,543,Self-Employed
+23,Steven Mccall,Male,High School,69527,110559,Rejected,South,611,Salaried
+24,Martha Harrison,Female,High School,48267,233342,Rejected,East,836,Self-Employed
+25,Angela Wright,Female,High School,79848,245354,Approved,South,435,Self-Employed
+26,Rhonda Brown,Female,High School,60201,262823,Rejected,West,716,Self-Employed
+27,William Turner,Male,Graduate,33503,333755,Rejected,South,301,Business
+28,Patricia Ho,Male,Post Graduate,104701,473056,Rejected,West,437,Self-Employed
+29,Julie Gonzalez,Female,High School,32615,11667,Approved,West,361,Self-Employed
+30,Ronald Hall,Male,Graduate,76888,197307,Rejected,West,658,Business
+31,Breanna Howard,Female,Graduate,76796,137508,Approved,South,846,Business
+32,Jennifer Thomas,Female,High School,114070,131899,Rejected,East,582,Salaried
+33,Lawrence Mason,Female,Post Graduate,94910,477946,Approved,West,586,Self-Employed
+34,Melissa Harvey,Male,High School,58213,356278,Approved,East,720,Self-Employed
+35,Samantha Taylor,Male,Graduate,113345,481443,Approved,East,770,Salaried
+36,Kyle Jones,Male,Graduate,75488,69564,Approved,South,562,Business
+37,Marcus Garcia,Female,Post Graduate,29420,486089,Approved,East,408,Self-Employed
+38,Lauren Clarke,Female,High School,53064,445466,Approved,West,715,Salaried
+39,David Lozano,Male,Graduate,37061,91427,Approved,East,367,Self-Employed
+40,Cindy Martin,Male,Graduate,111728,251615,Approved,South,798,Business
+41,Bailey Osborn,Male,High School,89585,428976,Rejected,West,572,Business
+42,Julie Simmons,Male,High School,94545,404063,Rejected,North,765,Business
+43,Roger Nguyen,Male,Graduate,40814,245799,Approved,North,411,Business
+44,Brian Richardson,Female,High School,109981,50312,Rejected,North,536,Salaried
+45,John Caldwell,Female,High School,22460,379279,Rejected,South,603,Business
+46,Mr. James Little,Female,Graduate,101563,332211,Rejected,North,885,Business
+47,Stephen Wilson,Female,Graduate,96035,483226,Rejected,East,899,Self-Employed
+48,Jessica Richards,Male,High School,91349,449991,Rejected,West,431,Self-Employed
+49,Shane Hernandez,Male,Post Graduate,69915,404383,Rejected,North,680,Self-Employed
+50,Nichole Spears,Male,Post Graduate,23768,354734,Approved,West,666,Self-Employed
+51,Donald Wilson,Male,High School,36370,492070,Approved,East,681,Salaried
+52,Phillip Davidson,Female,Graduate,24849,413563,Rejected,South,729,Salaried
+53,Cody Hanna,Female,Graduate,108297,17991,Rejected,East,800,Salaried
+54,Cynthia Wong,Male,Post Graduate,47804,227530,Approved,South,391,Salaried
+55,Brittany Clarke,Female,Post Graduate,116244,142701,Rejected,North,519,Salaried
+56,Elizabeth Lee,Female,Graduate,59802,203804,Rejected,South,413,Business
+57,Robert Dunn,Female,Post Graduate,107161,105235,Rejected,North,626,Business
+58,Adam Warren,Male,Post Graduate,95518,221010,Rejected,West,532,Business
+59,Beth Castillo,Male,Post Graduate,62457,470446,Approved,West,695,Business
+60,Michael Dickerson,Male,Graduate,72823,272637,Approved,North,503,Business
+61,Emily Moore,Male,Graduate,58047,450660,Approved,North,408,Salaried
+62,Adam Moore,Male,High School,119261,150352,Approved,North,315,Self-Employed
+63,Nicholas Fowler,Female,Graduate,22827,388459,Approved,East,657,Salaried
+64,Kimberly Osborn,Male,High School,97801,68583,Approved,West,705,Salaried
+65,Tony Carpenter,Female,Graduate,40769,121955,Rejected,North,515,Salaried
+66,Susan Lee,Female,Post Graduate,42831,320984,Rejected,South,567,Salaried
+67,Christine Williams,Female,Graduate,89310,322754,Rejected,South,628,Business
+68,Daniel Hill,Female,Post Graduate,101211,373107,Rejected,North,838,Self-Employed
+69,Cindy Ramirez,Male,Post Graduate,25855,370155,Rejected,South,813,Business
+70,Christopher Simmons,Male,Graduate,68506,165891,Approved,East,396,Self-Employed
+71,Guy Ray,Female,Post Graduate,78627,438372,Approved,East,649,Business
+72,Alison Cole,Female,High School,80609,22323,Approved,East,664,Self-Employed
+73,Dr. Kelly Davies,Male,High School,81124,9317,Rejected,West,527,Self-Employed
+74,Calvin Short,Male,Graduate,50703,448003,Approved,South,492,Salaried
+75,Antonio Thomas,Male,High School,105298,43573,Rejected,East,420,Self-Employed
+76,Karla Calhoun,Male,Graduate,115180,91820,Approved,West,885,Self-Employed
+77,Bradley Webster,Female,Post Graduate,113423,314944,Rejected,South,874,Business
+78,April Holder,Female,High School,39439,117717,Approved,West,743,Self-Employed
+79,Anna Aguilar,Male,Graduate,112819,52136,Approved,North,308,Self-Employed
+80,Jermaine Ward,Male,Post Graduate,82560,281509,Approved,East,592,Self-Employed
+81,Andrea Cooper,Male,High School,38554,127501,Approved,South,536,Business
+82,Charles Ferguson,Female,Graduate,72209,186985,Rejected,North,636,Business
+83,Joseph Crawford,Female,High School,91508,78301,Rejected,East,652,Salaried
+84,Justin Lambert,Male,High School,52314,183214,Rejected,South,610,Self-Employed
+85,Christopher Davies,Male,Graduate,71129,137279,Approved,West,382,Business
+86,Kristy Eaton,Female,High School,39618,218478,Approved,South,382,Self-Employed
+87,Victoria Scott,Female,Post Graduate,47035,480654,Rejected,West,514,Business
+88,Robert Phillips,Male,Graduate,84339,307378,Rejected,South,407,Business
+89,Jessica Hunt,Male,High School,56209,178419,Rejected,East,609,Business
+90,Vicki Adams,Female,Graduate,70693,203386,Rejected,East,338,Salaried
+91,Philip Johnson,Female,Post Graduate,94953,455236,Approved,North,784,Business
+92,Mary Martin,Female,Post Graduate,119142,283594,Approved,East,612,Salaried
+93,Shane Martinez,Female,Graduate,35399,375292,Approved,East,301,Salaried
+94,Mark Christensen,Male,High School,99922,361161,Approved,North,471,Business
+95,Annette Bennett,Male,Post Graduate,67224,139082,Rejected,West,507,Business
+96,Ashley Burke,Male,High School,63528,153607,Approved,East,633,Self-Employed
+97,Morgan Ruiz,Female,High School,29258,171037,Rejected,West,706,Business
+98,Kelly Schmidt,Male,Graduate,99056,146347,Rejected,South,589,Salaried
+99,Miguel Cochran,Male,Post Graduate,96952,374299,Approved,South,640,Business
+100,Bryan Browning,Male,Graduate,89395,191396,Rejected,East,325,Business
+101,Tammy Barajas,Female,High School,70080,354083,Approved,North,502,Self-Employed
+102,Robert Garcia,Female,Graduate,112994,499320,Approved,East,344,Business
+103,Charles Richards,Female,High School,42068,338428,Approved,South,499,Self-Employed
+104,Jack Morris,Female,Graduate,98316,242711,Rejected,West,611,Self-Employed
+105,Rachel Rivera,Male,High School,94950,364808,Rejected,West,677,Business
+106,Billy Massey,Female,High School,42773,333566,Approved,North,371,Business
+107,Jessica King,Male,Post Graduate,75849,395553,Approved,North,796,Self-Employed
+108,Patricia Harrington,Male,High School,49024,80752,Rejected,South,565,Self-Employed
+109,Michelle Harrison,Female,Graduate,50511,444288,Rejected,East,640,Self-Employed
+110,Valerie Spencer,Male,Graduate,31365,394413,Rejected,West,433,Salaried
+111,Angelica Key,Male,Graduate,22851,262281,Approved,South,332,Salaried
+112,Timothy Patel,Female,Post Graduate,73380,121280,Rejected,East,378,Self-Employed
+113,Jennifer Howell,Female,Graduate,89249,498359,Rejected,South,505,Salaried
+114,Robert Mercado,Male,Graduate,98770,64975,Rejected,North,469,Business
+115,Olivia Patel,Female,High School,40085,103487,Rejected,East,879,Self-Employed
+116,Danielle Jones,Female,Post Graduate,82258,253280,Rejected,South,468,Business
+117,Jerome Carson,Male,High School,109699,197706,Approved,North,523,Self-Employed
+118,Tammy Wood,Male,Post Graduate,64608,71022,Rejected,West,420,Business
+119,Jordan Reese,Male,Graduate,112187,488918,Approved,North,658,Self-Employed
+120,Adriana Ray,Male,Post Graduate,41725,92469,Approved,North,403,Salaried
+121,George Schmidt,Male,High School,85909,313335,Approved,East,692,Self-Employed
+122,Travis Walker,Female,Post Graduate,116314,249906,Rejected,North,700,Salaried
+123,Donald Hawkins,Female,Graduate,36648,372393,Approved,North,847,Business
+124,Nicole Evans,Female,Graduate,41891,448671,Approved,West,876,Salaried
+125,Jenna Mcpherson,Female,Post Graduate,115847,431149,Approved,South,496,Business
+126,Tyrone Knox,Female,Graduate,53589,206639,Rejected,East,665,Self-Employed
+127,Michele Washington,Male,Post Graduate,79113,301194,Rejected,East,698,Self-Employed
+128,Thomas Martin,Female,High School,30834,451940,Approved,South,794,Self-Employed
+129,Jennifer Lopez,Female,Post Graduate,72043,118719,Rejected,South,671,Self-Employed
+130,Toni Harrison,Female,Post Graduate,34673,277943,Rejected,West,627,Business
+131,Anna Nguyen,Male,Graduate,95428,340536,Rejected,South,798,Salaried
+132,Kristine Morales,Female,Graduate,112234,39424,Rejected,North,723,Self-Employed
+133,Jerry Barr,Male,Graduate,90128,275061,Rejected,North,637,Salaried
+134,Christina Melton,Male,Graduate,41494,108609,Approved,East,678,Self-Employed
+135,Jason Davis,Male,Post Graduate,26697,132887,Rejected,North,327,Self-Employed
+136,Brandon Rodriguez,Female,Post Graduate,57914,63395,Approved,East,791,Self-Employed
+137,Anthony Chen MD,Male,Post Graduate,59671,206485,Approved,West,707,Business
+138,James Howell,Male,High School,59121,293103,Approved,South,442,Business
+139,James Guerrero,Male,Post Graduate,43662,273219,Rejected,North,563,Self-Employed
+140,Kevin Davis,Female,High School,109872,126381,Rejected,West,795,Self-Employed
+141,Danielle Vang,Female,High School,100695,412280,Approved,West,703,Salaried
+142,Lori Daniels,Female,Graduate,42924,194214,Rejected,South,768,Salaried
+143,Elizabeth Woods,Male,High School,49265,50421,Approved,West,375,Business
+144,Crystal Cruz,Male,High School,44243,490790,Approved,South,666,Self-Employed
+145,Jessica Wall,Male,Graduate,29369,140179,Rejected,North,815,Self-Employed
+146,Breanna Henry,Male,High School,72954,193772,Rejected,North,547,Business
+147,James Skinner,Female,High School,22872,31389,Rejected,South,627,Self-Employed
+148,Wayne Vasquez,Male,Graduate,112279,146356,Rejected,West,833,Self-Employed
+149,Darrell Cordova,Female,High School,104542,24205,Approved,South,659,Salaried
+150,John Torres,Male,Post Graduate,102047,382255,Approved,North,829,Business
+151,Jennifer Watkins,Male,Post Graduate,86344,60297,Rejected,North,613,Self-Employed
+152,Cole Long,Female,Post Graduate,37683,493894,Approved,East,321,Self-Employed
+153,Stephanie Fitzpatrick,Female,Graduate,114436,203806,Rejected,South,537,Business
+154,Derrick Griffith,Female,High School,60057,444971,Approved,West,694,Self-Employed
+155,Martin Shelton,Male,High School,106295,8934,Rejected,North,508,Business
+156,Michael Phillips,Female,Post Graduate,105365,130041,Approved,South,510,Business
+157,Phillip Barry,Female,Post Graduate,77910,201706,Rejected,West,898,Salaried
+158,Sue Dunn,Female,Graduate,28038,424021,Rejected,North,659,Self-Employed
+159,Jillian Tucker,Male,High School,61218,6175,Approved,South,321,Self-Employed
+160,Felicia Brady,Female,Graduate,104634,287012,Rejected,South,505,Salaried
+161,Brenda Hatfield,Male,High School,23703,120081,Approved,South,535,Self-Employed
+162,Jerry Nelson,Female,High School,55402,258497,Approved,North,879,Self-Employed
+163,Matthew Robertson,Male,Graduate,50312,142752,Rejected,West,647,Self-Employed
+164,Michael Martin,Female,Post Graduate,106443,343996,Rejected,East,407,Salaried
+165,Martha Jenkins,Male,Post Graduate,26569,125220,Approved,East,712,Salaried
+166,David Lindsey,Male,Post Graduate,45329,135345,Rejected,North,694,Self-Employed
+167,Crystal Horton,Male,Post Graduate,58084,478617,Approved,North,445,Business
+168,Rebecca Sloan,Male,Post Graduate,48825,353104,Approved,West,455,Self-Employed
+169,Amy Adams,Male,Graduate,47912,216990,Rejected,North,746,Self-Employed
+170,Karen Maldonado,Female,High School,100468,155641,Approved,East,485,Salaried
+171,Jessica Pratt MD,Female,Post Graduate,25207,342110,Rejected,East,897,Business
+172,Dennis Armstrong,Male,Post Graduate,45227,106360,Approved,North,626,Business
+173,Taylor Lutz,Male,High School,80117,369059,Approved,East,374,Salaried
+174,Kenneth Chan,Female,Post Graduate,111006,478153,Rejected,South,899,Self-Employed
+175,Jose Vaughan,Male,Post Graduate,30991,257573,Rejected,South,402,Salaried
+176,Christopher Cook,Male,Graduate,112496,172768,Rejected,South,310,Salaried
+177,Chris Dickerson,Male,Post Graduate,67413,436953,Rejected,East,443,Business
+178,Cindy Thomas,Male,High School,41393,220391,Approved,West,799,Self-Employed
+179,David Davis,Female,Graduate,79249,486039,Rejected,East,860,Self-Employed
+180,Christian Johnson,Male,High School,70516,189681,Rejected,South,516,Self-Employed
+181,Christopher Lin,Male,Post Graduate,65600,438518,Approved,West,774,Business
+182,Daniel Ruiz,Male,Post Graduate,73452,239534,Approved,West,536,Self-Employed
+183,Alan Blevins,Male,High School,37723,298353,Approved,East,555,Salaried
+184,Dr. Angela Foster MD,Male,High School,37079,306327,Rejected,West,542,Business
+185,Judy Alvarado,Male,Graduate,64782,327918,Approved,East,713,Salaried
+186,Jessica Koch,Female,High School,44604,164872,Approved,West,735,Business
+187,Mark Smith,Female,Graduate,78269,309530,Approved,North,755,Business
+188,Matthew Rhodes,Female,High School,66120,245171,Approved,South,857,Business
+189,Melissa Vasquez,Female,High School,79827,93134,Approved,West,501,Self-Employed
+190,Amber Baker,Female,High School,61906,118153,Approved,North,761,Business
+191,Michael Smith,Female,Graduate,108534,462885,Rejected,West,636,Self-Employed
+192,April Martinez,Male,Graduate,107798,13097,Approved,West,659,Business
+193,Mr. Kevin York,Female,Graduate,116201,91491,Approved,West,457,Salaried
+194,Dr. Brenda Yu,Female,Post Graduate,80739,104285,Rejected,North,343,Business
+195,Nicolas Castillo,Female,High School,93721,435327,Approved,South,889,Business
+196,Ernest Rowe,Male,Post Graduate,76667,110889,Approved,North,376,Business
+197,Diane Wood,Female,Graduate,86334,150974,Rejected,South,870,Salaried
+198,Chad Harper,Female,Graduate,69305,157375,Approved,North,671,Business
+199,Jimmy Dickson,Female,High School,87083,14955,Approved,West,407,Business
+200,Justin Larson,Female,Post Graduate,62890,440361,Approved,West,439,Salaried
+201,Veronica Hanson,Female,Graduate,103297,82820,Approved,South,821,Business
+202,William Smith,Female,High School,79959,314245,Approved,East,374,Business
+203,Donald Parrish,Female,Post Graduate,82686,377467,Rejected,West,530,Salaried
+204,Michael Nelson,Male,High School,67749,163548,Rejected,North,341,Business
+205,Suzanne Simmons,Female,High School,69020,275082,Rejected,South,825,Salaried
+206,Dwayne Hill,Male,Post Graduate,46955,181156,Rejected,West,420,Self-Employed
+207,Susan Grimes,Female,Graduate,21543,223009,Approved,West,714,Self-Employed
+208,Matthew Landry,Female,Graduate,100919,458773,Rejected,South,560,Self-Employed
+209,Amanda Green,Female,Graduate,116119,241670,Approved,South,509,Salaried
+210,James Thomas,Male,Post Graduate,110967,455795,Approved,South,715,Business
+211,Donna Mason,Female,Post Graduate,93953,85140,Approved,South,769,Self-Employed
+212,Ernest Thompson,Male,Post Graduate,99455,191135,Rejected,East,306,Salaried
+213,Frank Schultz,Female,High School,51000,95057,Approved,North,589,Self-Employed
+214,Terry Orozco,Male,High School,47185,303483,Rejected,West,360,Self-Employed
+215,John Martin,Female,Post Graduate,41953,460148,Rejected,West,846,Salaried
+216,James Owen,Female,Graduate,91966,360962,Approved,West,896,Salaried
+217,Kelly Fry,Male,Post Graduate,95528,12195,Rejected,South,345,Business
+218,Ethan Price,Male,High School,105531,493062,Rejected,East,363,Business
+219,Edward Hodges,Female,High School,59091,191393,Rejected,East,760,Business
+220,Larry Flores,Female,High School,112834,494457,Rejected,East,318,Salaried
+221,Wendy Aguirre,Male,Post Graduate,104645,58877,Approved,South,710,Salaried
+222,Michael Gonzalez,Female,Graduate,97875,204136,Rejected,West,384,Salaried
+223,Valerie Obrien,Male,Graduate,112879,496548,Approved,West,729,Salaried
+224,Timothy Johnson,Male,Post Graduate,37513,68884,Rejected,East,551,Salaried
+225,Michael Taylor,Male,High School,44045,28733,Approved,East,753,Salaried
+226,Bonnie Grant MD,Male,Post Graduate,100592,490778,Approved,North,584,Self-Employed
+227,Nicole Hamilton,Female,Post Graduate,89815,149413,Approved,West,686,Self-Employed
+228,Kimberly Wells,Female,Graduate,24879,237891,Approved,South,476,Salaried
+229,Elizabeth Kaiser DVM,Male,Graduate,81683,187193,Rejected,West,827,Self-Employed
+230,Tonya Wood,Male,Graduate,21758,22649,Rejected,West,596,Salaried
+231,Jonathan Smith,Female,Graduate,36303,59917,Approved,East,818,Self-Employed
+232,Jennifer Hayes,Male,Post Graduate,53230,409116,Approved,South,409,Business
+233,Jenny Joseph,Female,Post Graduate,111931,168650,Rejected,West,524,Self-Employed
+234,Frederick Reynolds,Female,Graduate,118463,391844,Rejected,South,775,Business
+235,Katherine Burns,Male,High School,60930,475595,Approved,North,539,Self-Employed
+236,Amanda Duffy,Male,Graduate,63806,183201,Rejected,South,827,Salaried
+237,Zachary Fernandez,Male,High School,78395,340737,Approved,North,875,Business
+238,Victoria Hernandez,Male,Post Graduate,106136,218987,Approved,East,369,Business
+239,Daryl Nelson,Female,Post Graduate,67122,291062,Rejected,East,805,Salaried
+240,Rodney Cooper,Female,Graduate,24720,398927,Approved,West,715,Self-Employed
+241,Mrs. Christina Lane,Male,Post Graduate,48240,481026,Approved,North,730,Salaried
+242,Denise Curry,Male,High School,81621,443470,Approved,North,450,Self-Employed
+243,Taylor Young,Female,High School,64241,191046,Approved,South,605,Self-Employed
+244,Michael Gamble,Male,Post Graduate,99486,239214,Approved,North,708,Business
+245,Regina Fitzpatrick,Female,High School,29673,192896,Rejected,North,762,Self-Employed
+246,Alexandria Glenn,Female,High School,50085,336888,Rejected,West,406,Self-Employed
+247,Kristina Webb,Female,Graduate,24761,381272,Approved,East,585,Business
+248,Christina Davis,Male,Graduate,32849,420895,Rejected,North,801,Business
+249,Betty Taylor DDS,Female,Graduate,74358,179080,Rejected,South,773,Salaried
+250,Diana Perez,Female,High School,45833,26815,Approved,North,390,Self-Employed
+251,Hannah Williams,Female,Post Graduate,81104,20873,Rejected,North,607,Business
+252,Casey Chapman,Male,High School,73095,18661,Rejected,North,660,Salaried
+253,Andrea Griffin,Female,High School,37208,88128,Rejected,North,734,Self-Employed
+254,Diane Smith,Male,Graduate,34491,439384,Approved,South,323,Salaried
+255,Sarah Montoya,Female,Graduate,53609,158771,Rejected,West,806,Self-Employed
+256,Patricia Knox,Male,High School,21465,334434,Approved,West,436,Self-Employed
+257,Yvette Sloan,Female,High School,46526,30077,Approved,West,607,Self-Employed
+258,Crystal Hayes,Female,Post Graduate,35765,46375,Rejected,East,804,Salaried
+259,Craig Burton,Female,Graduate,93150,189198,Rejected,North,882,Self-Employed
+260,Pamela Mora,Male,High School,117648,208433,Rejected,South,511,Self-Employed
+261,David Scott,Male,High School,27160,462381,Rejected,East,451,Salaried
+262,Tammy Lester,Female,Post Graduate,33751,189030,Approved,East,782,Salaried
+263,David Moore,Female,High School,61070,313058,Rejected,East,809,Business
+264,Jonathan Torres,Female,High School,44451,428006,Rejected,West,479,Business
+265,Thomas Hall,Male,Graduate,22559,449220,Approved,South,757,Salaried
+266,Ana Cook,Female,Graduate,58079,195877,Approved,East,643,Self-Employed
+267,Matthew Everett DDS,Male,Graduate,52320,191280,Approved,South,827,Salaried
+268,Vanessa Wood,Male,Graduate,25388,165262,Rejected,South,717,Business
+269,Steven Russell,Female,Post Graduate,32819,371394,Rejected,South,375,Salaried
+270,Javier Crawford,Male,High School,119331,25157,Approved,East,711,Business
+271,Emily Wagner DVM,Male,Graduate,91032,431809,Approved,North,820,Business
+272,Nicholas Jordan,Female,Graduate,72660,166881,Approved,West,819,Salaried
+273,Morgan Reyes,Female,Post Graduate,26456,335666,Rejected,West,533,Salaried
+274,Thomas Fox,Male,Post Graduate,80522,481612,Approved,South,646,Self-Employed
+275,Jeanette Proctor,Female,High School,24641,185547,Rejected,East,624,Business
+276,Dustin Mccarthy,Male,Graduate,36798,433338,Rejected,East,492,Salaried
+277,Steven Miranda,Male,Graduate,94274,152351,Rejected,East,560,Salaried
+278,Tiffany Mack,Male,High School,35211,116267,Rejected,North,872,Business
+279,Sheila Peterson,Female,Graduate,27880,41626,Approved,East,679,Salaried
+280,William Franklin,Female,Graduate,70873,299238,Rejected,South,418,Salaried
+281,Amanda Watts,Male,Graduate,36700,487559,Approved,North,316,Self-Employed
+282,Jonathan Marquez,Female,Graduate,99755,423778,Approved,East,635,Self-Employed
+283,Shawn Estrada,Female,Graduate,71293,247341,Approved,East,856,Business
+284,Arthur Porter,Female,High School,99410,452100,Rejected,East,863,Salaried
+285,Ryan Boyer,Male,Post Graduate,20387,182549,Approved,South,351,Business
+286,Jose Foster,Female,Post Graduate,59784,461545,Rejected,West,693,Business
+287,Michelle Franklin,Male,Post Graduate,99319,364193,Rejected,West,623,Business
+288,Brent Woods,Female,Graduate,50820,145411,Rejected,East,530,Business
+289,Jerry Ruiz,Female,High School,47686,353219,Rejected,North,592,Self-Employed
+290,Trevor Hartman,Male,Post Graduate,79465,290336,Rejected,East,818,Business
+291,Hannah Adams,Male,Graduate,57322,33691,Rejected,South,485,Business
+292,Jill Olsen,Male,Graduate,41815,349098,Approved,North,523,Self-Employed
+293,William Perez,Female,High School,36440,409022,Rejected,South,778,Salaried
+294,Ashley Watson,Female,Graduate,58353,93491,Rejected,East,791,Self-Employed
+295,Paige Jimenez,Male,Post Graduate,29891,396075,Rejected,South,615,Salaried
+296,Heather Chavez,Male,Post Graduate,87364,95886,Approved,East,479,Self-Employed
+297,Nathan Scott,Male,Post Graduate,40746,332645,Rejected,East,501,Business
+298,Kendra Schultz,Male,Post Graduate,24962,188749,Approved,North,681,Business
+299,Joel Schultz,Female,Post Graduate,82827,149823,Approved,North,378,Salaried
+300,Eric Gardner,Female,Post Graduate,55970,24841,Approved,West,694,Business
+301,Melissa Smith,Female,High School,48302,180550,Rejected,South,813,Business
+302,Cynthia Mitchell,Male,Graduate,29605,315951,Approved,West,335,Business
+303,John Becker,Male,Graduate,68119,252363,Approved,East,826,Salaried
+304,Shawn Martin,Female,Graduate,78789,226806,Approved,West,487,Business
+305,Terry Campbell,Male,Post Graduate,52562,384103,Approved,East,578,Self-Employed
+306,Jennifer Hernandez,Female,Post Graduate,56998,461788,Approved,South,371,Business
+307,Alyssa Gibson,Male,Graduate,99817,340127,Approved,West,597,Self-Employed
+308,Christopher Green,Male,Graduate,52465,169612,Rejected,North,581,Business
+309,Nancy Wade,Female,Graduate,107880,429814,Rejected,North,706,Self-Employed
+310,Kari Torres,Female,High School,86918,124902,Approved,North,627,Self-Employed
+311,James Aguirre,Female,High School,87672,480733,Rejected,South,843,Self-Employed
+312,Brent Drake,Male,High School,115510,196330,Rejected,East,365,Business
+313,Leslie Jordan,Female,Graduate,39485,280179,Rejected,East,368,Salaried
+314,Daniel Suarez,Male,Post Graduate,21098,438328,Approved,East,580,Salaried
+315,Renee Phillips,Male,High School,75801,69697,Approved,North,516,Salaried
+316,Daniel Fuentes,Male,Post Graduate,111773,323316,Approved,East,308,Self-Employed
+317,Donald Craig,Female,Post Graduate,97852,261800,Approved,West,520,Self-Employed
+318,Andrew Moore DVM,Female,Graduate,88865,141613,Rejected,East,641,Business
+319,Teresa Myers,Female,Graduate,119147,72184,Rejected,West,486,Salaried
+320,Matthew Elliott,Male,High School,71823,31223,Approved,South,718,Business
+321,Leslie Riley,Female,Graduate,36392,198220,Approved,West,721,Business
+322,Amanda Kennedy,Female,High School,42053,52908,Rejected,East,795,Salaried
+323,Tiffany Johnson,Female,Post Graduate,37646,35899,Rejected,South,300,Business
+324,Angel Acosta,Female,Graduate,30594,260603,Approved,North,526,Salaried
+325,Mary Arnold,Female,High School,100119,345453,Approved,West,704,Business
+326,Michael Edwards,Male,Graduate,39571,87307,Rejected,East,348,Business
+327,Christopher Bowers,Female,High School,78422,50485,Approved,South,648,Self-Employed
+328,Scott Winters,Male,Graduate,45917,448175,Approved,South,718,Self-Employed
+329,Thomas Burgess,Female,High School,38301,176842,Rejected,North,855,Salaried
+330,Erik Johns,Male,Graduate,107164,27812,Rejected,West,886,Salaried
+331,Richard Brown,Female,Post Graduate,71993,132830,Approved,West,491,Self-Employed
+332,Jonathan Cuevas,Female,Post Graduate,116825,314339,Approved,West,664,Salaried
+333,Tonya Miranda,Female,High School,52910,372820,Rejected,East,442,Business
+334,Rodney Baird,Male,High School,103261,260233,Approved,North,883,Salaried
+335,James Jackson,Male,Post Graduate,20427,265701,Rejected,South,516,Salaried
+336,Mark Bowen,Female,High School,106490,427107,Approved,West,772,Self-Employed
+337,Rhonda Green,Male,High School,119003,268729,Approved,East,629,Business
+338,Lee Randolph,Female,Post Graduate,68347,70503,Approved,North,800,Salaried
+339,Dean Sanchez,Female,Post Graduate,113850,264061,Rejected,West,373,Business
+340,Ashley Nguyen,Male,Post Graduate,110235,250852,Approved,South,686,Business
+341,John Clark,Female,Graduate,55035,6206,Approved,South,725,Salaried
+342,Chad Carrillo,Female,Post Graduate,55242,469094,Rejected,West,661,Salaried
+343,William Moore,Female,Post Graduate,87005,67582,Rejected,West,365,Business
+344,Nancy Williams,Female,Post Graduate,79314,86708,Rejected,West,327,Business
+345,Denise Garcia,Male,Graduate,103697,205215,Approved,South,401,Salaried
+346,Rachel Medina,Female,Graduate,102174,456953,Approved,East,823,Salaried
+347,Frank Dean,Male,Post Graduate,117098,108608,Rejected,North,817,Self-Employed
+348,Kevin Spencer,Female,High School,73462,206359,Approved,South,820,Salaried
+349,Arthur Jackson,Female,High School,97114,225507,Approved,West,550,Business
+350,Laura Phillips,Female,High School,47244,135501,Rejected,North,554,Salaried
+351,Johnny Rodriguez,Male,Post Graduate,34744,211001,Rejected,North,353,Salaried
+352,Joshua Diaz,Male,High School,47819,173097,Approved,North,756,Salaried
+353,Justin Roberts,Female,Graduate,83420,304088,Approved,South,622,Salaried
+354,Brandon Gonzalez,Male,Graduate,49967,356070,Rejected,East,454,Salaried
+355,Jasmine Coleman,Male,High School,74461,288390,Approved,North,445,Salaried
+356,Thomas Campbell,Female,Post Graduate,62018,51653,Rejected,South,887,Business
+357,Andrea Gray,Female,Post Graduate,76773,341979,Approved,East,685,Salaried
+358,Jon Keller,Male,High School,106648,344755,Rejected,West,701,Salaried
+359,Sharon Ford,Female,High School,68063,422605,Rejected,South,321,Salaried
+360,Jennifer Martin MD,Male,Post Graduate,86545,107174,Approved,West,615,Business
+361,Christopher Hill,Female,Post Graduate,54366,442705,Approved,East,835,Self-Employed
+362,Heather Morris,Female,Graduate,92705,227505,Rejected,North,734,Salaried
+363,Ronnie Huber,Female,Post Graduate,62686,174480,Rejected,North,466,Business
+364,Rebecca Woodward,Male,Post Graduate,92790,400836,Approved,East,678,Self-Employed
+365,Brittany Ford,Female,Graduate,102805,395424,Rejected,South,881,Self-Employed
+366,William Collier,Female,High School,53918,381603,Approved,South,398,Business
+367,Kathleen Miller,Female,Post Graduate,31135,99208,Rejected,South,624,Self-Employed
+368,Laura Bradley,Female,Graduate,25010,16965,Approved,West,831,Self-Employed
+369,Kelly Deleon,Female,Graduate,82441,417402,Approved,West,479,Salaried
+370,Christian Garcia,Male,Post Graduate,44814,132737,Rejected,East,374,Self-Employed
+371,Anne Huffman,Male,Graduate,28588,240107,Approved,South,308,Self-Employed
+372,Lisa Kelly,Male,High School,53832,282127,Rejected,South,489,Business
+373,Rachel Howe,Female,Graduate,38678,298468,Approved,East,313,Business
+374,Kelly Garza,Male,Post Graduate,41680,163095,Approved,East,751,Business
+375,Gregory Ryan,Male,Post Graduate,104254,440777,Approved,West,739,Self-Employed
+376,Jamie Oliver,Male,Graduate,44347,216025,Approved,East,896,Salaried
+377,James Barton,Male,High School,42377,186885,Rejected,East,648,Salaried
+378,Andrea Rice,Female,Post Graduate,76198,318950,Rejected,East,671,Self-Employed
+379,Brooke Clarke,Female,Graduate,28227,311342,Approved,West,780,Salaried
+380,Robert Rodriguez,Male,Graduate,27137,230532,Rejected,West,600,Business
+381,Cheyenne Williams,Male,Graduate,31044,291700,Approved,West,603,Salaried
+382,Sandra Stewart,Male,High School,65688,132895,Approved,East,333,Self-Employed
+383,Karen Skinner,Male,Post Graduate,96024,357618,Rejected,North,381,Salaried
+384,Marc Davis,Male,Graduate,95642,18245,Rejected,North,709,Self-Employed
+385,Jennifer Reynolds,Female,Graduate,41797,424814,Approved,East,877,Business
+386,David Santiago,Female,High School,89014,148525,Approved,West,888,Business
+387,Michael Shah,Male,Graduate,83924,159994,Rejected,South,797,Salaried
+388,Michelle Ortiz,Female,Graduate,46377,488524,Approved,East,404,Salaried
+389,Jamie Stafford DVM,Male,High School,29769,293493,Approved,South,580,Business
+390,Christian Hebert,Male,Post Graduate,47238,177180,Approved,East,439,Self-Employed
+391,Kimberly Gill,Female,High School,96630,406826,Approved,West,664,Self-Employed
+392,Warren Curtis,Male,Post Graduate,112875,343632,Approved,North,524,Salaried
+393,Anna Kelley,Male,High School,64476,351870,Rejected,West,607,Business
+394,Dale White,Female,High School,34265,432670,Approved,North,527,Self-Employed
+395,Anthony Shields,Female,High School,20888,375774,Rejected,East,510,Salaried
+396,Jeffrey Harrell,Male,High School,43252,328845,Approved,East,823,Self-Employed
+397,Geoffrey Jones,Male,High School,53210,182004,Rejected,South,869,Salaried
+398,Bonnie Perez,Male,High School,109620,373484,Approved,East,474,Self-Employed
+399,Jeff Lewis,Female,High School,110143,331325,Rejected,North,513,Business
+400,Courtney Hunter,Female,Graduate,46643,350841,Approved,South,509,Self-Employed
+401,Kim George,Female,Post Graduate,43224,327416,Approved,West,305,Business
+402,Katrina Hale DVM,Female,High School,115215,153672,Rejected,East,463,Business
+403,Brian Dunn,Female,Graduate,100579,238932,Rejected,East,346,Salaried
+404,Sherri Marsh,Male,Post Graduate,82644,135520,Rejected,East,782,Self-Employed
+405,Seth Jackson,Male,Post Graduate,52905,282046,Approved,East,797,Self-Employed
+406,Mr. Joseph Pierce,Female,Post Graduate,40233,272537,Rejected,West,349,Business
+407,Dana Rodriguez,Male,High School,51820,295892,Rejected,South,710,Business
+408,Andrew Wilson,Female,Post Graduate,109857,441670,Rejected,North,529,Salaried
+409,Jennifer Harris,Female,Graduate,85962,427802,Approved,South,872,Salaried
+410,Rachael Williams,Male,High School,113977,233476,Approved,North,705,Self-Employed
+411,Jason Ewing,Female,Post Graduate,110404,115921,Rejected,East,746,Self-Employed
+412,Denise Johnson,Male,High School,54017,360561,Rejected,West,305,Self-Employed
+413,Brent Pena,Male,Post Graduate,94153,325705,Rejected,South,765,Self-Employed
+414,David Dennis MD,Female,Graduate,116846,173547,Rejected,South,586,Self-Employed
+415,Patricia Price,Male,Post Graduate,47752,134216,Approved,East,302,Self-Employed
+416,Erika Hudson,Female,Graduate,63745,161814,Approved,North,868,Business
+417,Mr. Reginald Ramirez,Male,High School,95238,186434,Approved,South,540,Business
+418,Dr. Edward Dixon DVM,Female,High School,64180,169197,Rejected,South,801,Self-Employed
+419,Paula Brown,Female,Post Graduate,32329,457166,Rejected,South,512,Business
+420,Gary Brown,Female,Graduate,58041,362990,Rejected,West,519,Self-Employed
+421,Megan Lee,Male,High School,104413,161532,Rejected,North,379,Business
+422,Fernando Hoover,Female,Graduate,56015,157019,Approved,North,729,Salaried
+423,Timothy Strong,Male,Graduate,102409,42769,Rejected,North,870,Business
+424,Billy Long,Female,High School,88315,370362,Approved,North,876,Self-Employed
+425,Crystal Johnson,Female,High School,29101,296790,Rejected,West,475,Salaried
+426,Jason Bolton,Male,High School,75967,318048,Rejected,West,467,Salaried
+427,Matthew Taylor,Female,High School,43247,459621,Approved,North,589,Salaried
+428,Rebecca Roy,Male,High School,91652,273773,Approved,South,691,Self-Employed
+429,Dr. Keith Martin,Male,High School,116443,389585,Approved,West,392,Business
+430,Dr. Tamara Mills,Male,Post Graduate,25874,171916,Approved,South,513,Business
+431,Diamond Hill,Male,Graduate,98764,314613,Approved,East,352,Salaried
+432,Andrea King,Male,Graduate,86017,455745,Rejected,North,637,Business
+433,Justin Gray,Male,Post Graduate,82283,320908,Rejected,North,322,Salaried
+434,Shannon Ross,Female,High School,59037,10220,Approved,North,540,Salaried
+435,Kevin Ferrell,Male,High School,21626,447028,Rejected,East,320,Business
+436,Caroline Shaw,Male,Graduate,39885,147155,Approved,South,345,Self-Employed
+437,Michael Miller,Female,Post Graduate,51010,497896,Rejected,South,349,Self-Employed
+438,John Monroe,Female,High School,84574,222804,Rejected,West,574,Self-Employed
+439,Laura Harris,Female,Graduate,62925,460672,Rejected,West,473,Business
+440,Scott Carpenter,Male,High School,20759,464295,Rejected,North,305,Salaried
+441,Ms. Margaret Andrews,Male,Post Graduate,31223,184848,Approved,North,814,Business
+442,Lori Gonzalez,Male,Graduate,82496,467399,Approved,East,866,Self-Employed
+443,Angela Walker,Female,High School,68720,265281,Rejected,South,398,Salaried
+444,Suzanne Coffey,Female,Graduate,24608,341624,Rejected,East,363,Salaried
+445,Brent Thomas,Male,Post Graduate,109404,115283,Approved,East,484,Business
+446,Cindy Scott DVM,Female,High School,77642,176332,Rejected,South,683,Self-Employed
+447,Jacob Vega,Female,Post Graduate,92556,50843,Rejected,East,733,Business
+448,Tony Sims,Male,Graduate,71936,30995,Approved,South,429,Self-Employed
+449,Mitchell Simmons,Male,Graduate,86066,7882,Approved,South,847,Salaried
+450,Joseph Spencer,Male,High School,67695,88758,Approved,North,412,Salaried
+451,Daniel Shelton,Male,Graduate,90168,385299,Rejected,North,432,Salaried
+452,Jonathan Scott,Female,High School,74671,294173,Rejected,East,859,Business
+453,Douglas Hernandez PhD,Female,Graduate,75195,166350,Rejected,East,660,Business
+454,Jeremy Lee,Male,High School,42216,289463,Approved,North,710,Business
+455,Zachary Williams,Male,High School,119562,291086,Approved,West,372,Business
+456,Terri Trujillo,Female,Post Graduate,90527,320570,Rejected,East,431,Salaried
+457,Christopher Hodges,Female,High School,76827,210506,Approved,North,625,Business
+458,Nicole Richards MD,Male,Post Graduate,93294,372522,Approved,North,335,Self-Employed
+459,Stacy Brown,Male,High School,48588,245475,Approved,West,516,Self-Employed
+460,Judy Hawkins,Male,High School,46989,166967,Rejected,North,414,Self-Employed
+461,Antonio Kennedy,Male,High School,64075,452040,Approved,East,840,Salaried
+462,Donald Williams,Male,Graduate,73930,21286,Approved,North,778,Salaried
+463,Susan Taylor,Female,Post Graduate,60385,247626,Rejected,North,743,Business
+464,Alexandra Gonzalez,Male,Graduate,107128,22133,Approved,West,783,Business
+465,Beth Suarez,Female,High School,61777,29512,Approved,South,750,Self-Employed
+466,Beth Mcmillan,Female,High School,25072,91505,Approved,South,686,Salaried
+467,Michael Williams,Male,Graduate,62980,391395,Rejected,North,325,Self-Employed
+468,Amber Brown,Male,High School,75610,436055,Rejected,East,610,Business
+469,Toni Johnson,Male,Post Graduate,94437,459141,Rejected,North,393,Self-Employed
+470,William Bailey,Male,Graduate,108716,57258,Rejected,West,670,Business
+471,Mary Green,Female,Post Graduate,71368,130863,Approved,North,362,Self-Employed
+472,Logan Rice,Male,Graduate,56863,228962,Rejected,East,717,Salaried
+473,Jennifer White,Male,High School,101668,189563,Approved,North,835,Salaried
+474,Amanda James,Male,High School,48777,461536,Approved,North,472,Salaried
+475,John Hodge,Male,Post Graduate,23419,297979,Approved,North,711,Self-Employed
+476,Sandra Smith,Female,Post Graduate,100834,64559,Rejected,East,372,Salaried
+477,Barbara Gonzales,Male,High School,62419,490433,Rejected,West,448,Self-Employed
+478,Mrs. Laura Chandler MD,Female,High School,81097,346556,Rejected,North,510,Business
+479,David Reilly,Male,High School,22640,151523,Approved,North,830,Salaried
+480,Diane Gonzales,Male,High School,22575,223490,Approved,East,383,Self-Employed
+481,Leslie Hawkins,Female,Post Graduate,81098,49936,Approved,South,658,Salaried
+482,Robert Huang,Female,High School,41518,33372,Rejected,South,748,Salaried
+483,Angela Schwartz,Male,Graduate,29544,31459,Rejected,South,845,Self-Employed
+484,Wendy Oneal,Female,Post Graduate,69334,11616,Rejected,North,342,Salaried
+485,Ashley Jimenez,Female,Post Graduate,102570,478667,Approved,East,420,Business
+486,Julie Lester,Female,High School,63379,285779,Rejected,South,740,Salaried
+487,Mark Carpenter,Female,High School,102578,364442,Rejected,West,710,Salaried
+488,Todd Shannon,Male,Post Graduate,68522,362800,Rejected,East,366,Salaried
+489,Gary Vasquez,Male,High School,115761,436203,Rejected,West,893,Business
+490,Bruce Galvan,Female,High School,89149,61251,Approved,South,690,Self-Employed
+491,Gerald Parks,Female,Post Graduate,34421,499413,Rejected,North,814,Salaried
+492,Joan Cuevas,Male,High School,87225,297447,Rejected,North,519,Salaried
+493,Eric Gibson,Female,Graduate,85297,20454,Rejected,South,789,Business
+494,Carla Anderson,Female,Graduate,81164,457649,Rejected,West,358,Business
+495,Travis Phillips II,Male,High School,62727,8500,Rejected,West,800,Salaried
+496,Virginia Peterson,Female,Post Graduate,41137,251973,Approved,North,635,Self-Employed
+497,Tamara Barnett,Male,Post Graduate,52747,373830,Approved,East,879,Self-Employed
+498,Juan Murphy,Male,Post Graduate,110180,279618,Approved,South,695,Salaried
+499,Amanda Hill,Male,Post Graduate,77454,153938,Rejected,South,491,Salaried
+500,Sarah Griffith,Female,High School,77587,330953,Approved,South,601,Business
