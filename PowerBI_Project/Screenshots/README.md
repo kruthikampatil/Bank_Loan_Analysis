@@ -1,1 +1,1 @@
-Screenshots of POwerBI
+Screenshots of PowerBI
